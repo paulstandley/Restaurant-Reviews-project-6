@@ -30,12 +30,6 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
 
-
-
-## maps api key
-
-* pk.eyJ1IjoicGF1bHN0YW5kbGV5IiwiYSI6ImNqamZzcjRodjUydmszcG1tb25jOWR6aXAifQ.hlOSJDuO14yBQ2hwNWZm8Q
-
 ## Steps to complete the project
 
 ~~__Fork and clone the starter repository. The code in this repository will serve as your baseline to begin development.
