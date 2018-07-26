@@ -143,7 +143,7 @@ nav h1 a {
   text-align: center;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
 }
 #restaurants-list li {
@@ -161,7 +161,7 @@ nav h1 a {
   display: block;
   margin: 0;
   max-width: 100%;
-  min-height: 200px;
+  min-height: 160px;
   min-width: 100%;
 }
 #restaurants-list li h1 {
@@ -260,6 +260,10 @@ nav h1 a {
 #restaurant-container, #reviews-container, a {
   color: white;
 }
+#restaurant-container {
+  display: flex;
+  flex-direction: column;
+}
 #reviews-container {
   padding: 0;
 }
@@ -284,6 +288,9 @@ nav h1 a {
   padding: 0 15px 15px;
   position: relative;
   width: 85%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 #reviews-list li p {
   margin: 0 0 8px;

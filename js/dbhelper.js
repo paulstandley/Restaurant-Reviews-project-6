@@ -8,8 +8,8 @@ class DBHelper {
      * Change this to restaurants.json file location on your server.
      */
     static get DATABASE_URL() {
-      const port = 5500; // Change this to your server port
-      return `http://localhost:${port}//data/restaurants.json`;
+      const port = 8000; // Change this to your server port
+      return `http://localhost:${port}/data/restaurants.json`;
     }
   
     /**
@@ -162,7 +162,7 @@ class DBHelper {
         {title: restaurant.name,
         alt: restaurant.name,
         url: DBHelper.urlForRestaurant(restaurant)
-        })
+        });
         marker.addTo(newMap);
       return marker;
     } 
@@ -176,6 +176,5 @@ class DBHelper {
       );
       return marker;
     } */
-  
-  }
-  
+    
+}
