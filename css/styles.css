@@ -256,10 +256,12 @@ nav h1 a {
 #restaurant-container {
   display: flex;
   flex-direction: column;
+  align-content: center;
 }
 #reviews-container {
-  padding: 30px 40px 80px;
+  padding: 22px 30px 60px;
 }
+
 #reviews-container h2 {
   color: #f58500;
   font-size: 24pt;
