@@ -14,7 +14,7 @@ clone [githubRepo](https://github.com/udacity/mws-restaurant-stage-1)
 
 open index.html
 
-### cittaions
+### citation
 
 [P6: Restaurant Reviews with Mohammed](https://www.youtube.com/watch?v=jsGs9z7TuyY)
 
