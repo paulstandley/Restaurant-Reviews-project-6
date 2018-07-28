@@ -1,5 +1,7 @@
 # Restaurant-Reviews-project-6
 
+![Paul Standley](http://res.cloudinary.com/pieol2/image/upload/v1516543296/profile-small.png)
+
 ## Mobile Web Specialist Certification Course
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
