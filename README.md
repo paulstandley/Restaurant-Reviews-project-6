@@ -4,6 +4,8 @@
 
 ![Paul Standley](http://res.cloudinary.com/pieol2/image/upload/v1516543296/profile-small.png)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48c395f4-ea53-4e59-9118-84585e37a1ec/deploy-status)](https://app.netlify.com/sites/restreview/deploys)
+
 ## Mobile Web Specialist Certification Course
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
